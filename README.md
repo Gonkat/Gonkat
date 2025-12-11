@@ -65,6 +65,6 @@
 ---
 
 <!-- ВОЛНА ВНИЗУ -->
-<img src="https://discord.com/channels/918028893976420373/974876091426697236/1448605940772507690" style="width:100%; height:120px; display:block;" alt="neon wave" />
+<!--<img src="https://discord.com/channels/918028893976420373/974876091426697236/1448605940772507690" style="width:100%; height:120px; display:block;" />-->
 
 
