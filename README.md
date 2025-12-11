@@ -65,18 +65,6 @@
 ---
 
 <!-- ВОЛНА ВНИЗУ -->
-<svg viewBox="0 0 1440 200" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
-  <!-- Фон -->
-  <rect width="1440" height="200" fill="#000000" />
+<img src="https://discord.com/channels/918028893976420373/974876091426697236/1448605940772507690" style="width:100%; height:120px; display:block;" alt="neon wave" />
 
-  <!-- Неоновая волна -->
-  <path d="M0,120 C360,200 1080,40 1440,120 L1440,200 L0,200 Z"
-        fill="none" stroke="#002980" stroke-width="8" 
-        style="filter: drop-shadow(0 0 8px #002980);" />
-
-  <!-- Логотип/аватар в центре волны -->
-  
-   <!--<image href="https://raw.githubusercontent.com/Goncat200/wave-assets/main/your-avatar.png"
-         x="680" y="50" height="100" width="100" clip-path="circle(50%)"/> -->
-</svg>
 
