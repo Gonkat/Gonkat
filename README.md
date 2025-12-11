@@ -48,13 +48,13 @@
 - **NomadWayAI (Prototype)** — https://nomad-way-ai-seven.vercel.app/ru/demo  
 - **PDF Library (testing)** — https://our-groop.vercel.app
 
----
+<!-- ---
 
 ## 📊 GitHub Stats
-<div>
+<!--<div>
   <img src="https://github-readme-stats.vercel.app/api?username=Goncat200&show_icons=true&title_color=002980&icon_color=002980&text_color=ffffff&bg_color=0d1117" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Goncat200&background=0d1117&ring=002980&fire=002980&currStreakLabel=ffffff&sideNums=ffffff&currStreakNum=ffffff&sideLabels=ffffff" />
-</div>
+</div>-->
 
 ---
 
