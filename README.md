@@ -1,7 +1,6 @@
 <!-- АНИМИРОВАННАЯ НЕОНОВАЯ ВОЛНА -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/146470859?v=4" width="150" style="border-radius: 50%;" />
-</p>
+  <img src="https://avatars.githubusercontent.com/u/146470859?v=4" width="150" style="border-radius: 100%;" />
+
 
 
 # 👋 Hi, I'm Gonkat!
