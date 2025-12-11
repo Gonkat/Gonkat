@@ -1,5 +1,8 @@
 <!-- АНИМИРОВАННАЯ НЕОНОВАЯ ВОЛНА -->
-<img src="https://avatars.githubusercontent.com/u/146470859?v=4" width="10%" />
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/146470859?v=4" width="150" style="border-radius: 50%;" />
+</p>
+
 
 # 👋 Hi, I'm Gonkat!
 **Frontend Developer | Backend Developer**
