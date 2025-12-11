@@ -1,5 +1,5 @@
 <!-- АНИМИРОВАННАЯ НЕОНОВАЯ ВОЛНА -->
-<img src="[https://raw.githubusercontent.com/Goncat200/wave-assets/main/neon-wave.svg](https://avatars.githubusercontent.com/u/146470859?v=4)" width="100%" />
+<img src="https://raw.githubusercontent.com/Goncat200/wave-assets/main/neon-wave.svg" width="100%" />
 
 # 👋 Hi, I'm Gonkat!
 **Frontend Developer | Backend Developer**
