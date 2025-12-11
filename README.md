@@ -1,5 +1,6 @@
 <!-- АНИМИРОВАННАЯ НЕОНОВАЯ ВОЛНА -->
-  <img src="https://avatars.githubusercontent.com/u/146470859?v=4" width="150" style="border-radius: 100%;" />
+
+  <img src="https://cdn.discordapp.com/attachments/974876091426697236/1448603868220100628/avatar-rounded3.png?ex=693bdcfb&is=693a8b7b&hm=2df4b5b245c9dd60aff398d7df416d16b800094f243f5087641a77f9b29e1cdb&" width="150" style="border-radius: 100%;" />
 
 
 
